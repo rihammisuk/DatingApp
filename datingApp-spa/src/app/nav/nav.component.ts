@@ -1,5 +1,4 @@
 import { AlertifyService } from './../_services/alertify.service';
-import { error } from '@angular/compiler/src/util';
 import { AuthService } from './../_services/auth.service';
 import { Component, OnInit } from '@angular/core';
 import { Router } from '@angular/router';
